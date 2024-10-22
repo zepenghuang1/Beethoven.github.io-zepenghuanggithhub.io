@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>贝多芬介绍</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>路德维希·范·贝多芬</h1>
+        <nav>
+            <ul>
+                <li><a href="#about">关于贝多芬</a></li>
+                <li><a href="#music">音乐作品</a></li>
+                <li><a href="#legacy">遗产</a></li>
+                <li><a href="#contact">联系方式</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="about">
+            <h2>关于贝多芬</h2>
+            <p>路德维希·范·贝多芬（Ludwig van Beethoven）是德国作曲家和钢琴家，生活在1770年至1827年间。他是古典音乐历史上最重要的作曲家之一，被认为是浪漫主义音乐的先驱。</p>
+        </section>
+        <section id="music">
+            <h2>音乐作品</h2>
+            <ul>
+                <li><strong>交响曲第5号</strong> - “命运交响曲”</li>
+                <li><strong>交响曲第9号</strong> - “合唱交响曲”</li>
+                <li><strong>月光奏鸣曲</strong> - 第14号奏鸣曲</li>
+                <li><strong>热情奏鸣曲</strong> - 第23号奏鸣曲</li>
+            </ul>
+        </section>
+        <section id="legacy">
+            <h2>贝多芬的遗产</h2>
+            <p>贝多芬对音乐的贡献不仅在于他的作品，还在于他推动了音乐形式的创新和情感的表达。他的音乐影响了后来的作曲家，并激励了无数音乐爱好者。</p>
+        </section>
+        <section id="contact">
+            <h2>联系方式</h2>
+            <p>如果您对贝多芬的音乐有任何问题或想法，请通过邮箱与我们联系。</p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 贝多芬介绍网站</p>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>
